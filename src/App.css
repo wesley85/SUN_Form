@@ -1,0 +1,18 @@
+.buttonStyle {
+  margin: '10px 10px 10px 10px';
+}
+
+.divclear {
+  clear: 'both';
+}
+
+.divfloat {
+  float: 'left';
+  clear: 'both';
+  margin-right: '100px';
+  padding-bottom: 5%;
+}
+
+.divSpacing {
+  padding-bottom: 5%;
+}
