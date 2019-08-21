@@ -2,6 +2,11 @@
 
 # dependencies
 /node_modules
+/node_modules
+/src/playground
+/package-lock.json
+/yarn.lock
+/yarn-error.log
 
 # misc
 npm-debug.log*
